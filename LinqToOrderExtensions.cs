@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EPlatform.CRM.Business.Utils
+namespace LinqToOrderExtensions
 {
     public static class LinqToOrderExtensions
     {
